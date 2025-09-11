@@ -29,10 +29,14 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> JavaScript</code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> Python</code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" /> Django</code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> HTML5</code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" /> CSS</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> Git</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> GitHub</code>
-<!-- Add/remove badges as you please -->
+
 
 ---
 
