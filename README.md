@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- 👋 Header -->
 <h1 align="center">Hey there, I’m Licia 👩‍💻</h1>
-<h3 align="center">Innovation Strategist ⚡ Director of Engineering 🛠️ Challenger of the Status Quo</h3>
+<h3 align="center">Innovation Strategist ⚡ Fractional TPM 🛠️ Challenger of the Status Quo</h3>
 
 
 ---
