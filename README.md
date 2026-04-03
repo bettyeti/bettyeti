@@ -1,78 +1,74 @@
-<!--
-**bettyeti/bettyeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Licia 👋
 
-Here are some ideas to get you started:
+### Strategic Trajectory Auditor · AI Readiness Advisor · Builder of Honest Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 👋 Header -->
-<h1 align="center">Hey there, I’m Licia 👩‍💻</h1>
-<h3 align="center">Innovation Strategist ⚡ Fractional TPM 🛠️ Challenger of the Status Quo</h3>
+I run **[Off Record Strategy](https://licia.tech)** — an independent advisory practice
+that helps leaders navigate AI-accelerated organizations without sacrificing people,
+integrity, or the planet.
 
+My core question: *How do companies achieve real ROI without breaking what matters most?*
+
+That means working at the intersection of decision science, incentive design, systems
+thinking, and AI ethics — with a deep respect for the judgment that machines can't replace.
 
 ---
 
-## 🔭 About Me
-- 🤔 I’m on a mission to turn Nature’s Wisdom + AI’s Power into humanity-enriching solutions.
-- 🌱 Currently diving deep into **ethical AI**, **decision-making systems**, and **tech leadership**.
-- 👯 Open to collaborating on radical paradigm-shifting projects.
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/licia-bailey) | [Bluesky](https://bsky.app/profile/liciatech.bsky.social) | [Profile](https://liciabailey.com)
+## 🔭 What I'm Working On
+
+- **The Judgment Gap** — exploring where AI capability ends and human wisdom must begin
+- **Decision Readiness frameworks** — helping organizations audit *how* they decide,
+  not just *what* they decide
+- **DIKW in practice** — translating Data → Information → Knowledge → Wisdom for
+  leaders navigating AI adoption
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> JavaScript</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> Python</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" /> Django</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> HTML5</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> CSS</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> Git</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> GitHub</code>
+## 🛠️ Technical Fluency
 
+**Comfortable with:**
+`HTML5` `CSS` `JavaScript` `SQL` `PHP` `Node.js` `Git` `Python`
 
----
+**Actively building in:**
+`Python` `Claude API` `SQLite` `Express`
 
-## 🚀 Featured Projects
-
-| Project | Description | 🔗 Links |
-| :---: | :--- | :--- |
-| **ERP** | ERP for the home improvement and flooring industry | [🌐 Site](https://qprosoftware.com) |
-<!--| **BiasSwap** | Fun web app to expose hidden biases in everyday speech | [🌐 Demo](https://lociashare.com/biasswap) \| [📂 Code](https://github.com/your-username/biasswap) |
-| **PeriTech** | Concept page & toolkit for perimenopausal engineers | [📝 Concept](https://techpause.xyz) |-->
+I write code to think clearly, build prototypes, and stay close to the systems I advise on.
+I don't pretend to know things I don't — that's kind of a core value.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bettyeti&show_icons=true&theme=radical" alt="Licia's GitHub Stats"/>
-</p>
-
----
-
-> “Innovating Through Nature’s Wisdom and AI’s Power to Enrich Humanity.”
+| Project | What it is |
+|---|---|
+| **ORS Readiness Radar** | A full-stack AI readiness diagnostic built with Node.js, SQLite, Python, and the Claude API |
+| **DIKW Decision Framework** | Interactive tool for visualizing the Judgment Gap in organizational AI adoption |
 
 ---
 
-### ⚡ What’s Next?
-- 🚧 Building an **app** to auto-transcribe & debunk TikToks  
-- 📚 Writing my **100 Days of Innovation Strategy** series  
-- 🏔️ Training for Kilimanjaro (because why not)
+## 📌 Current ORS Focus Areas
+
+- AI readiness and organizational decision velocity
+- Incentive design and structural integrity audits
+- Strategic pressure-testing for leaders at inflection points
+- Ethical AI adoption — not just governance theater
 
 ---
 
-<details>
-  <summary>👀 Show me some fun facts!</summary>
+## 🌿 A Few True Things About Me
 
-  - 📍 Based in the PNW, chasing sunsets over water  
-  - 🎨 Watercolor painter, nature photographer, avid reader  
-  - 🧠 Life long learner, mind mapper
-</details>
+- 📍 Bellingham, WA — Salish Sea watershed, big sky, amazing matcha
+- 🎨 Watercolor painter, nature photographer, guitar player (work in progress)
+- 🧠 MIT Professional Education — Applied Agentic AI for Organizational Transformation
+- 🔭 I have a genuine obsession with how the universe actually works
+- ✳️ [Radical integrity](https://radicalintegrity.org/) isn't a brand value for me — it's a constraint on what work I take
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/licia-bailey) ·
+[Off Record Strategy](https://offrecordstrategy.com)
+
+---
+
+> *"The goal isn't to move faster. It's to know what you're moving toward — and whether it's worth it."*
